@@ -1,0 +1,76 @@
+header nav .portifolio a {
+    color: #5FB4A2;
+}
+
+.manage {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin: 100px 190px;
+}
+
+.manage-left {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.manage-left img {
+    width: 500px;
+    height: auto;
+    margin-bottom: 100px;
+}
+
+.manage-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 450px;
+    height: 550px;
+    margin-left: 100px;
+}
+
+.manage-right hr {
+    width: 450px;
+    height: 1px;
+
+    background: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+
+.manage-right h1 {
+    align-self: flex-start;
+
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+
+    letter-spacing: -0.357143px;
+
+    color: #33323D;
+
+}
+
+.maanage-right p {
+    align-self: flex-start;
+
+    width: 430px;
+    height: 250px;
+    margin-bottom: 20px;
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+
+
+    color: #33323D;
+    opacity: 0.8;
+}
