@@ -1,146 +1,32 @@
-![](https://i.imgur.com/xG74tOh.png)
+<h1>Este projeto foi criado com linguagem css e html.</h1>
 
-# Desafio | Front-end - Módulo 2
+<h2>Home Page</h2>
 
-O objetivo deste exercício é replicar o website encontrado no arquivo 'Desafio front academy 1.fig'.
-
-## Páginas obrigatórias
-
-- [Home](#Home)
-
-## Páginas opcionais
-
-- [Portfolio](#Portfolio)
-- [Portfolio - 01 - Manage](#Portfolio---01---Manage)
-- [Portfolio - 02 - Bookmark](#Portfolio---02---Bookmark)
-- [Portfolio - 03 - Insure](#Portfolio---03---Insure)
-- [Portfolio - 04 - Fylo](#Portfolio---04---Fylo)
-- [Contato](#Contato)
-
-### Home
-
-Seções
+<h3>Na imagem abaixo temos o header que fica no topo da página, onde tem alguns links para navegação do website.</h3>
 
 - Header ![](https://i.imgur.com/Vwj9U0y.png)
 
+
+
+<h3>Esta parte é a Hero Section um seção com uma pequena apresentação do website, que há um botão que direciona para outra seção que é Sobre mim. </h3>
+
 - Hero Section ![](https://i.imgur.com/tjYO6R6.png)
+
+
+
+<h3> Novamente temos outra seção que fala um pouco da história do criador, e temos também outro botão guiado para um portifolio.</h3>
 
 - Sobre Section ![](https://i.imgur.com/KHPaEWW.png)
 
+
+
+<h3> Esta é uma pequena parte que apresenta outro botão para ser encaminhado para página de contato.</h3>
 - Contato Section ![](https://i.imgur.com/e88URFi.png)
 
+
+
+<h3>Por fim temos um footer que fica no final da página com as mesmas navegações que temos no header.</h3>
 - Footer ![](https://i.imgur.com/P06m37L.png)
 
-### Portfolio
-
-Seções
-
-- Header ![](https://i.imgur.com/1pDIzMz.png)
-
-- Manage Section ![](https://i.imgur.com/jHweGIb.png)
-
-- Bookmark Section ![](https://i.imgur.com/uTpctrq.png)
-
-- Insure Section ![](https://i.imgur.com/BsAWB7m.png)
-
-- Fylo Section ![](https://i.imgur.com/W9s2afk.png)
-
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
-
-- Footer ![](https://i.imgur.com/P06m37L.png)
-
-### Portfolio - 01 - Manage
-
-Seções
-
-- Header ![](https://i.imgur.com/1pDIzMz.png)
-
-- Hero Section ![](https://i.imgur.com/JYY2lNG.png)
-
-- Descrição Projeto Aside ![](https://i.imgur.com/uEgRim6.png)
-
-- Main Section
-  ![](https://i.imgur.com/O1JyZtK.png)
-
-- Links Section ![](https://i.imgur.com/zGJMDOE.png)
-
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
-
-- Footer ![](https://i.imgur.com/P06m37L.png)
-
-### Portfolio - 02 - Bookmark
-
-Seções
-
-- Header ![](https://i.imgur.com/1pDIzMz.png)
-
-- Hero Section ![](https://i.imgur.com/ag3Madi.png)
-
-- Descrição Projeto Aside
-  ![](https://i.imgur.com/JDvgptu.png)
-
-- Main Section
-  ![](https://i.imgur.com/T41K6z3.png)
-
-- Links Section ![](https://i.imgur.com/UpCLzFL.png)
-
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
-
-- Footer ![](https://i.imgur.com/P06m37L.png)
-
-### Portfolio - 03 - Insure
-
-Seções
-
-- Header ![](https://i.imgur.com/1pDIzMz.png)
-
-- Hero Section ![](https://i.imgur.com/yJMQ0iJ.png)
-
-- Descrição Projeto Aside
-  ![](https://i.imgur.com/zofNYva.png)
-
-- Main Section
-  ![](https://i.imgur.com/BMMJXlz.png)
-
-- Links Section ![](https://i.imgur.com/9fYN4lI.png)
-
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
-
-- Footer ![](https://i.imgur.com/P06m37L.png)
-
-### Portfolio - 04 - Fylo
-
-Seções
-
-- Header ![](https://i.imgur.com/1pDIzMz.png)
-
-- Hero Section ![](https://i.imgur.com/7IcYjiF.png)
-
-- Descrição Projeto Aside
-  ![](https://i.imgur.com/fKuRKYX.png)
-
-- Main Section
-  ![](https://i.imgur.com/MQC6y17.png)
-
-- Links Section ![](https://i.imgur.com/3WGHl8V.png)
-
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
-
-- Footer ![](https://i.imgur.com/P06m37L.png)
-
-### Contato
-
-Seções
-
-- Header ![](https://i.imgur.com/ubDorki.png)
-
-- Entre em contato Section ![](https://i.imgur.com/4GLs5Iw.png)
-
-- Contato Section ![](https://i.imgur.com/VvO2m7w.png)
-
-- Footer ![](https://i.imgur.com/P06m37L.png)
-
-
-**LEMBRE-SE**: Feito é melhor do que perfeito, mas não faça mal feito!!!
 
 ###### tags: `front-end` `módulo 2` `HTML` `CSS` `desafio`
